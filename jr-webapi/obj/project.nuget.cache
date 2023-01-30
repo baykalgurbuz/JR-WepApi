@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "U5kLr2ZOaKhNjc6Lzu0xVm3KJ6AKYX91tAXrsA+OW0lXdKOLW9/qaKrJj1i3cfcaOv7MmDJreocW4p4OfLPBtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EnesG\\source\\repos\\WepApi\\jr-webapi\\jr-webapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EnesG\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\EnesG\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\EnesG\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\EnesG\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\EnesG\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\EnesG\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
